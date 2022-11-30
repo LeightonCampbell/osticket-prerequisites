@@ -16,6 +16,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10
 - Windows 11
+- MacOS
 
 <h2>List of Prerequisites</h2>
 

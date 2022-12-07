@@ -31,6 +31,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/b96yqdf.png" height="80%" width="80%" alt="OsTicket Prerequisite"/>
 </p>
 <p>
-OsTicket requires several prerequitsites to both install and operate as a stable ticketing system. Here, you see one of the final stages, installing required exensions, before software configuration begins.
+OsTicket requires several prerequitsites to both install and operate as a stable ticketing system. Here, you see one of the final stages, enabling required exensions, before software configuration begins.
 </p>
 <br />

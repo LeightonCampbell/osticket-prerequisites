@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install Microsoft Visual Basics C++ Redistributable
 - Install OsTicket and Configure Agent Permissions
 
-<h2>Installation Steps</h2>
+<h2>Installation Step</h2>
 <p>
 <img src="https://i.imgur.com/gu18ab2.png" height="80%" width="80%" alt="OsTicket Prerequisite"/>
 </p>
@@ -34,7 +34,7 @@ Extracting OsTicket from a compressed state before installing it.
 </p>
 <br />
 
-<h2>Installation Steps</h2>
+<h2>Installation Step</h2>
 <p>
 <img src="https://i.imgur.com/b96yqdf.png" height="80%" width="80%" alt="OsTicket Prerequisite"/>
 </p>

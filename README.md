@@ -34,6 +34,7 @@ Extracting OsTicket from a compressed state before installing it.
 </p>
 <br />
 
+<h2>Installation Steps</h2>
 <p>
 <img src="https://i.imgur.com/b96yqdf.png" height="80%" width="80%" alt="OsTicket Prerequisite"/>
 </p>
